@@ -1,0 +1,19 @@
+University Website Design
+A responsive and modern University Website UI built using HTML, CSS
+This project demonstrates a complete front-end design for an educational institution website with multiple sections and a mobile-friendly navigation menu.
+
+🚀 Features
+🏫 Hero section with background image and overlay
+📚 Courses section (Intermediate, Degree, Post Graduation)
+🌍 Global campus showcase with hover effects
+🏀 Facilities section (Library, Playground, Cafeteria)
+💬 Student testimonials section
+📞 Call-to-action (CTA) section
+📱 Responsive navigation menu (open/close toggle)
+🎨 Smooth hover and transition effects
+🛠️ Technologies Used
+HTML5
+CSS3 (Flexbox & Media Queries)
+JavaScript (DOM Manipulation)
+Font Awesome (Icons)
+Google Fonts (Poppins)
